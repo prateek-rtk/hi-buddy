@@ -1,4 +1,4 @@
-# Contribution Guidlines
+# Contribution Guidelines
 
 ## How to Contribute
 1. Fork this repository, develop, and test your changes.
